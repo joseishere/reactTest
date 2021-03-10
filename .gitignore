@@ -1,2 +1,3 @@
 node_modules/
 ignoreThis.txt
+.DS_Store
