@@ -1,5 +1,5 @@
 
 set up the authentication so that we can submit our forms to firestore
 https://www.youtube.com/watch?v=PKwu15ldZ7k&t=1449s
-min 21:42
+min 35:05
 
